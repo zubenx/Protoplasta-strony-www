@@ -1,0 +1,129 @@
+ main {
+     width: 1600px;
+     margin: auto;
+ }
+ 
+ body {
+     font-family: 'Ubuntu', sans-serif;
+     background-image: url("images/earth1.jpg");
+     background-size: 100%;
+     background-color: rgb(54, 22, 58);
+ }
+ 
+ header {
+     color: rgb(56, 108, 153);
+     text-align: center;
+ }
+ 
+ nav {
+     background-color: rgb(14, 6, 22);
+     width: 100%;
+     height: 60px;
+     color: aliceblue;
+     text-align: center;
+     font-size: 30px;
+     padding-top: 20px;
+ }
+ 
+ .left {
+     float: left;
+     background-color: rgb(15, 4, 27);
+     width: 25%;
+     height: 500px;
+     margin: 10px 33px 5px 0px;
+ }
+ 
+ .left1 {
+     overflow: initial;
+     margin: 10px 5px 5px 0px;
+     float: left;
+     width: 24%;
+     height: 500px;
+     background-color: rgb(55, 56, 124);
+ }
+ 
+ .left2 {
+     background-color: rgb(15, 4, 27);
+     width: 25%;
+     height: 500px;
+     margin: 10px 33px 5px 0px;
+     float: left;
+ }
+ 
+ footer {
+     background-color: rgb(14, 6, 22);
+     height: 60px;
+     width: 100%;
+     clear: both;
+     text-align: center;
+     color: aliceblue;
+     line-height: 50px;
+ }
+ 
+ a {
+     text-decoration: none;
+     margin-right: 50px;
+     color: rgb(189, 189, 209);
+ }
+ 
+ a:hover {
+     color: rgb(91, 81, 228);
+ }
+ 
+ img {
+     margin: 2px;
+ }
+ 
+ p.lef {
+     color: azure;
+     font-size: 110%;
+     padding: 10px;
+     line-height: 30px;
+ }
+ 
+ p.lef,
+ h2,
+ h3 {
+     padding-top: 20px;
+     color: rgb(121, 178, 201);
+     text-align: center;
+ }
+ 
+ label {
+     padding-left: 45px;
+     color: aliceblue;
+ }
+ 
+ input contact {
+     width: 100px;
+     height: 100px;
+ }
+ 
+ textarea {
+     margin-left: 15px;
+ }
+ 
+ input {
+     margin-left: 15px;
+ }
+ 
+ p.art {
+     color: rgb(39, 200, 221);
+     padding: 10px;
+     text-align: justify;
+     font-size: 110%;
+ }
+ 
+ p.art1 {
+     color: rgb(39, 200, 221);
+     padding: 10px;
+     text-align: justify;
+     font-size: 110%;
+ }
+ 
+ p.art1:hover {
+     color: rgb(91, 81, 228);
+     padding: 10px;
+     text-align: justify;
+     font-size: 110%;
+ }
